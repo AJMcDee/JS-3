@@ -6,4 +6,4 @@ This repository will house the example files I use for these videos. As they gro
 
 Thank you for your interest and [please follow me on Twitter](http://www.twitter.com/AnnaJMcDougall) where you can feel free to ask me anything at all.
 
-###[Visit my YouTube Channel](https://www.youtube.com/channel/UCjJzKrbr3WGn1xE0LAQ91yA)
+You can also [visit my YouTube Channel](https://www.youtube.com/channel/UCjJzKrbr3WGn1xE0LAQ91yA).
